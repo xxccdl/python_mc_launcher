@@ -1,7 +1,7 @@
 # python_mc_launcher
 # Python MC Pro Launcher - v9 Renaissance
 
-![启动器主界面截图]([https://github.com/xxccdl/python_mc_launcher/ico.png])
+![启动器主界面截图]([https://github.com/xxccdl/python_mc_launcher/image.png])
 
 **一个使用 Python 和 CustomTkinter 构建的现代化、功能丰富的 Minecraft: Java 版启动器。**
 
