@@ -1,0 +1,2 @@
+# python_mc_launcher
+一个类似于hmcl的mcjava版启动器，启动和下载速度比hmcl快
